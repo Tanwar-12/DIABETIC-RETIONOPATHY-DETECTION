@@ -8,13 +8,21 @@ Diabetic Retinopathy (DR) is a diabetes complication that affects the eyes. It i
 ## 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬:
 
 1.Business Problem
+
 2.Visualization of Images
+
 3.Image Processing
+
 4.TSNE Visualization
+
 5.Data Augmentation
+
 6.Train Validation Split
+
 7.Resize and save
+
 8.Image Pre Processing and save
+
 9.ResNet50 Models
 
 ## 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦
